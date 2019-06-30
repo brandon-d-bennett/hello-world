@@ -1,4 +1,4 @@
 # hello-world
 Test
 
-Hellom testing out github.
+Hello, testing out github.
